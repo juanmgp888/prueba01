@@ -1,4 +1,4 @@
-package src.main.java.es.jmg;
+package es.jmg;
 import java.text.DecimalFormat;
 
 public class Variables01 {

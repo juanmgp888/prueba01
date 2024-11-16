@@ -1,4 +1,4 @@
-package src.main.java.es.jmg;
+package es.jmg;
 public class OtroObjeto {
     // Constructor por defecto (sin parámetros)
     public OtroObjeto() {

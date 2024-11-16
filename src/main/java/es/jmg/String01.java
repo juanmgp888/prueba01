@@ -1,4 +1,4 @@
-package src.main.java.es.jmg;
+package es.jmg;
 public class String01{
     public static void main(String[] args){
 

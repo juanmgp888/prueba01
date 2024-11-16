@@ -1,4 +1,4 @@
-package src.main.java.es.jmg;
+package es.jmg;
 public class Promedio{
     public static void main(String[] args) {
         double myAvg=0.0d, myAvgEach = 0.0d;

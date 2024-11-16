@@ -1,4 +1,4 @@
-package src.main.java.es.jmg;
+package es.jmg;
 
 import java.util.Arrays;  // Para ver el contenido real al que apuntan los arrays.
 import java.util.Random;
